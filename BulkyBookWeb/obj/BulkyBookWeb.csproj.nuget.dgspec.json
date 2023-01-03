@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bpiro\\source\\repos\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
+    "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bpiro\\source\\repos\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {
+    "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bpiro\\source\\repos\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectUniqueName": "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "projectName": "BulkyBookWeb",
-        "projectPath": "C:\\Users\\bpiro\\source\\repos\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectPath": "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "packagesPath": "C:\\Users\\bpiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bpiro\\source\\repos\\BulkyBook\\BulkyBookWeb\\obj\\",
+        "outputPath": "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bpiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,26 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
