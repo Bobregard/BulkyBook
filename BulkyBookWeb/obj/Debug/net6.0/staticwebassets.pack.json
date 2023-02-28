@@ -5,12 +5,60 @@
       "PackagePath": "staticwebassets\\BulkyBookWeb.bundle.scp.css"
     },
     {
+      "Id": "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\bootswatchtheme.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchtheme.css"
+    },
+    {
       "Id": "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\044f0c3a-af73-4ab3-903c-b1db12a4ae07.png",
+      "PackagePath": "staticwebassets\\images\\products\\044f0c3a-af73-4ab3-903c-b1db12a4ae07.png"
+    },
+    {
+      "Id": "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\0bd07f09-2a72-4815-9636-c4fc095ddbed.png",
+      "PackagePath": "staticwebassets\\images\\products\\0bd07f09-2a72-4815-9636-c4fc095ddbed.png"
+    },
+    {
+      "Id": "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\0fcff624-44b9-455f-94f1-636797a36621.png",
+      "PackagePath": "staticwebassets\\images\\products\\0fcff624-44b9-455f-94f1-636797a36621.png"
+    },
+    {
+      "Id": "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\1d4149f9-737f-42ea-818f-095f1511f19f.png",
+      "PackagePath": "staticwebassets\\images\\products\\1d4149f9-737f-42ea-818f-095f1511f19f.png"
+    },
+    {
+      "Id": "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\207e56b4-b566-4e2c-8abb-08822a271b51.png",
+      "PackagePath": "staticwebassets\\images\\products\\207e56b4-b566-4e2c-8abb-08822a271b51.png"
+    },
+    {
+      "Id": "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\38b813e6-2108-4f20-8ce3-b5d05fe3e6d3.png",
+      "PackagePath": "staticwebassets\\images\\products\\38b813e6-2108-4f20-8ce3-b5d05fe3e6d3.png"
+    },
+    {
+      "Id": "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\830ff3e4-64d7-4391-bb54-deaf3082bb54.png",
+      "PackagePath": "staticwebassets\\images\\products\\830ff3e4-64d7-4391-bb54-deaf3082bb54.png"
+    },
+    {
+      "Id": "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\8f6621f5-f16e-4462-98c9-3066fd08b1cb.png",
+      "PackagePath": "staticwebassets\\images\\products\\8f6621f5-f16e-4462-98c9-3066fd08b1cb.png"
+    },
+    {
+      "Id": "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\910bbcff-254a-4b3e-b788-6fe400981942.png",
+      "PackagePath": "staticwebassets\\images\\products\\910bbcff-254a-4b3e-b788-6fe400981942.png"
+    },
+    {
+      "Id": "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\c4a0f50f-5845-4ce6-b16b-558f43fad4eb.png",
+      "PackagePath": "staticwebassets\\images\\products\\c4a0f50f-5845-4ce6-b16b-558f43fad4eb.png"
+    },
+    {
+      "Id": "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
       "Id": "C:\\Boyan\\.Net 6 MVC Course\\Project\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\site.js",
